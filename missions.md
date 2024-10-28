@@ -6,13 +6,16 @@ To take on a Mission, message _rafd on Discord.
 
 ## In Progress
 
+- function of the day (mycc) @austin-meier
+	- allow users to subscribe to a daily "function of the day" email
+
+- faded problems (exercise library) @cantwellnc
+	- create a script that generates "[faded](https://teachtogether.tech/en/index.html#faded-examples)" variations of our exercises
+	- modify our exercise app to allow user to set a level of fading
+
 
 ## Open
-
-- exercise library
-    - faded problems
-    	- create a script that generates "[faded](https://teachtogether.tech/en/index.html#faded-examples)" variations of our exercises
-    	- modify our exercise app to allow user to set a level of fading
+ 	
 - mob programming sessions
     - set up script
     	- create a Docker, Ansible or Babashka script so that any mentor can trivially spin up a mob session VM
