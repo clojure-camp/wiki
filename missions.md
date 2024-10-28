@@ -55,3 +55,29 @@ To take on a Mission, message _rafd on Discord.
       - way for Campers to earn badges for different topic mastery (more though needs to be put into it)
 
 
+## Past Missions
+
+Thank you to Campers for completing these missions!
+
+- 2024-09 @oleh-sedletskyi 
+  - mycc - merge in pairing algo repo into the main repo
+  - mycc - use language preferences when matching
+  - mycc - improve pairing algorithm stop condition
+- 2024-02 @the-dress-code
+  - mycc - allow users to indicate mentor vs peer pairing preference
+- 2024-02 @matheusfrancisco
+  - mycc - migration scripts
+- 2024-02 @J0sueTM
+  - mycc - timezone dropdown
+- 2023-12 @austin-meier
+  - mycc - improve backend validation
+- 2023-06 @recia-r
+  - mycc - add weekend option to pairing schedule
+- 2023-04 @nikijiandani
+  - mycc - visual improvements (align schedule hour to top of row)
+- 2021-04 @asukakuwahara
+  - mycc - add max-pair-per-day and -per-week options
+- 2020-2023 @Don-Stevenson @nikijiandani @dbeattie
+  - mycc - many sessions of pairing with @rafd to build the app
+- 2020-06 @icncsx
+  - mycc - initial draft of pairing algorithm
