@@ -13,6 +13,8 @@ To take on a Mission, message _rafd on Discord.
 	- create a script that generates "[faded](https://teachtogether.tech/en/index.html#faded-examples)" variations of our exercises
 	- modify our exercise app to allow user to set a level of fading
 
+- internationalizing exercises (exercise library) @afucher
+	- add i18n support for our exercises (starting with adding Pt-Br) 
 
 ## Open
  	
