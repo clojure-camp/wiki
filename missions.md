@@ -5,6 +5,10 @@ Missions are open tasks for Campers to work on to improve our community.
 To take on a Mission, message _rafd on Discord.
 
 ## In Progress
+- handbook @taulant
+    - transition from notion to github
+      - transfer handbook content to wiki repo
+      - + a script to generate a static site from the repo 
 
 - function of the day (mycc) @austin-meier
 	- allow users to subscribe to a daily "function of the day" email
@@ -78,6 +82,8 @@ Thank you to Campers for completing these missions!
 - 2023-04 @nikijiandani
   - mycc - visual improvements (align schedule hour to top of row)
 - 2021-04 @asukakuwahara
+
+
   - mycc - add max-pair-per-day and -per-week options
 - 2020-2023 @Don-Stevenson @nikijiandani @dbeattie
   - mycc - many sessions of pairing with @rafd to build the app
