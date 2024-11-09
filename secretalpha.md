@@ -1,6 +1,6 @@
 > Looking for sturdy groups? See [Study Group](studygroups.md)
 
-> Looking for more resources? See [Clojure Camp Handbook](handbook.md)
+> Looking for more resources? See [Clojure Camp Handbook](README.md)
 
 # Secret Alpha
 

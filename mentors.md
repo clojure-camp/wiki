@@ -1,4 +1,4 @@
-> Looking for more resources? See [Clojure Camp Handbook](handbook.md)
+> Looking for more resources? See [Clojure Camp Handbook](README.md)
 
 # Mentor 1:1 Check In
 
