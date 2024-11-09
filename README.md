@@ -29,10 +29,13 @@ At Clojure Camp, mentors provide a variety of offerings. Explore the list below 
 - [Solo Student Projects](solo.md)
 - [Code of Conduct](conduct.md)
 
-- Other Related Pages:
-  - [Learning “Programmatic Problem Solving”](solving.md)
-  - [Using ChatGPT and Copilot for Learning](gpt.md)
-- Advice on Specific Topics:
-  - [Learning Clojure](clojure.md)
-  - [Learning “Programmatic Problem Solving”](solving.md)
-  - [Learning Git](git.md)
+## Other Related Pages:
+
+- [Learning “Programmatic Problem Solving”](solving.md)
+- [Using ChatGPT and Copilot for Learning](gpt.md)
+
+## Advice on Specific Topics:
+
+- [Learning Clojure](clojure.md)
+- [Learning “Programmatic Problem Solving”](solving.md)
+- [Learning Git](git.md)
