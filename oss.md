@@ -1,6 +1,6 @@
 > Looking for more resources? See [Clojure Camp Handbook](README.md)
 
-# Mentored OSS Projects
+# 🖥️ Mentored OSS Projects
 
 Work on an open-source Clojure project, with a mentor providing on-going guidance, code-reviews and/or 1:1 pairing sessions.
 

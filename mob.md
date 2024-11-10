@@ -1,6 +1,6 @@
 > Looking for more resources? See [Clojure Camp Handbook](README.md)
 
-# Mob-Programming Sessions
+# 👨🏻‍💻 Mob-Programming Sessions
 
 Try to solve some exercises all together as a mob. Very accessible to new Clojure programmers.
 

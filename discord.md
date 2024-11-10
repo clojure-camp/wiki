@@ -1,6 +1,6 @@
 > Looking for more resources? See [Clojure Camp Handbook](README.md)
 
-# Chat on Discord
+# 💬 Chat on Discord
 
 Chat with your fellow students and mentors. Meetings and calls happen [here](https://discord.gg/aSkAMfq2n5) too.
 

@@ -1,6 +1,6 @@
 > Looking for more resources? See [Clojure Camp Handbook](README.md)
 
-# P2P Pairing Sessions
+# 👥 P2P Pairing Sessions
 
 Get scheduled each week to pair 1:1 with other students
 [my.clojure.camp](https://my.clojure.camp)

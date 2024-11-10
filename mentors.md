@@ -1,6 +1,6 @@
 > Looking for more resources? See [Clojure Camp Handbook](README.md)
 
-# Mentor 1:1 Check In
+# 🔄 Mentor 1:1 Check In
 
 Have a 1:1 call with a mentor. For code review, 1:1 pairing, or to advise on next-steps for your learning journey.
 

@@ -1,6 +1,6 @@
 > Looking for more resources? See [Clojure Camp Handbook](README.md)
 
-# Unstuck Emergency Hotline
+# 📞 Unstuck Emergency Hotline
 
 An app to “call for help” when you’re stuck and (maybe) get instant help from a student or mentor.
 

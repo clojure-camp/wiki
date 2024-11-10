@@ -1,6 +1,6 @@
 > Looking for more resources? See [Clojure Camp Handbook](README.md)
 
-# Exercise Site
+# ☯️ Exercise Site
 
 Curated exercises for learners, [https://exercises.clojure.camp](https://exercises.clojure.camp/)
 

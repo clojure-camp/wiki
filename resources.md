@@ -1,6 +1,6 @@
 > Looking for more resources? See [Clojure Camp Handbook](README.md)
 
-# Learning Resources
+# 🔗 Learning Resources
 
 Link dump of various Clojure-related resources for students.
 

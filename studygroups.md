@@ -1,6 +1,6 @@
 > Looking for more resources? See [Clojure Camp Handbook](README.md)
 
-# Weekly Study Groups
+# 📆 Weekly Study Groups
 
 Regular session where multiple learners catch up with one or two mentors to show and tell their progress, get unblocked and create learning accountability.
 

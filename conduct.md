@@ -1,6 +1,6 @@
 > Looking for more resources? See [Clojure Camp Handbook](README.md)
 
-# Code of Conduct
+# 🖖 Code of Conduct
 
 ## Document
 
