@@ -2,17 +2,17 @@
 
 # Using ChatGPT and Copilot for Learning
 
-**Should I use ChatGPT for learning?**
+## Should I use ChatGPT for learning?
 
 Yes, ChatGPT can be a great educational resource. We recommend using it.
 
 It is an infinitely patient mentor, that can answer your exact question any time. But, it sometimes “lies” (aka. gets things wrong), but that’s OK, as long as you’re on guard.
 
-**What about Copilot?**
+## What about Copilot?
 
 Sure. But less useful than ChatGPT when starting out. It still requires the judgment to be able to tell whether the code actually does what you want it to do.
 
-See also [Clojure Camp’s stance on AI Tools and Education](https://www.notion.so/Clojure-Camp-s-stance-on-AI-Tools-and-Education-917ff0accc564b969293e5c04f861638?pvs=21)
+See also [Clojure Camp’s stance on AI Tools and Education](gptpolicy.md)
 
 ## Advice on using Chat GPT
 
