@@ -23,6 +23,8 @@ At Clojure Camp, mentors provide a variety of offerings. Explore the list below 
 - [📍 Clojure Curriculum Map](map.md)
 - [🔗 Learning Resources](resources.md)
 - [🖥️ Mentored OSS Projects](oss.md)
+- [🏫 “Teaching Tech Together” Study Group for Mentors](together.md)
+- [👀 Watch me code](watch.md)
 - [📆 Weekly Study Groups](studygroups.md)
 - [📞 Unstuck Emergency Hotline](unstuck.md)
 - [🎸 Solo Student Projects](solo.md)
