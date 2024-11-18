@@ -8,7 +8,7 @@ Welcome to Clojure Camp! This wiki describes how to get started as a student, an
 
 - Register on [my.clojure.camp](https://my.clojure.camp)
   - and opt-in for [P2P Pairing Sessions](#p2p)
-- Join the [Discord](https://discord.gg/aSkAMfq2n5)
+- Join the [Discord](https://discord.clojure.camp)
   - Say hello in #introductions
 
 ## Things on Offer
