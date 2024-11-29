@@ -16,6 +16,7 @@ What is programming? How do computers convert text to behaviour? How do you use 
 
 - project ideas
   - talk to a mentor to find a project that is interesting to you and appropriate
+    - ask a mentor to assess your knowledge and help you to define your learning roadmap
   - ex
       - drawing with SVGs
       - making a static website
