@@ -38,5 +38,6 @@ At Clojure Camp, mentors provide a variety of offerings. Explore the list below 
 ## Advice on Specific Topics:
 
 - [Learning Clojure](clojure.md)
+- [Clojure as First Programming Language](beginner_programmers.md)
 - [Learning “Programmatic Problem Solving”](solving.md)
 - [Learning Git](git.md)
