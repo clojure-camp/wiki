@@ -28,5 +28,6 @@ In future, we hope to integrate these with [Clojure Curriculum Map](map.md)
 | Clojure                        | Guides Tutorials, Language Guides, Cookbooks                                                  | https://clojure-doc.org                                      |
 | Clojure for the Brave and True | Free eBook                                                                                    | https://www.braveclojure.com/clojure-for-the-brave-and-true/ |
 | Learn X in Y Minutes           | Guides                                                                                        | https://learnxinyminutes.com/docs/clojure/                   |
+| ClojureScript Unraveled        | eBook                                                                                         | https://funcool.github.io/clojurescript-unraveled/           |
 
-|
+
