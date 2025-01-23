@@ -86,6 +86,8 @@ See https://www.meetup.com/clojure-camp/ for scheduled events.
 
 ## Stewards
 
+- See [Mob Facilitator Guide](mob-facilitator-guide.md) for more details
+
 - Wishlist
   - an app
     - mentor logs in, does the spin-up, shut-down
