@@ -21,12 +21,12 @@ To take on a Mission, message \_rafd on Discord.
 
   - add i18n support for our exercises (starting with adding Pt-Br)
 
-- per-topic skill level @oleh-sedletskyi
+- misc mycc tweaks @oleh-sedletskyi
 
-  - currently, people mark themselves as "learner" or "mentor", and select various topics
-  - we want to transition to:
-    - for each topic, someone can select: beginner / intermediate / expert
-  - also, modify the pairing algorithm to take this information into account
+  - in match email, indicate when it's a user's first time
+  - improve topics stats display (now that we have skill-levels per topic)
+  - show overall availability in the p2p calendar availability-view
+
 
 ## Open
 
@@ -34,14 +34,15 @@ To take on a Mission, message \_rafd on Discord.
   - set up script
     - create a Docker, Ansible or Babashka script so that any mentor can trivially spin up a mob session VM
       - Debian/Ubuntu + Apache Guacamole + Clojure + VS Code + Calva
+  - translate CMD to Ctrl
+  - no password
 
 - mycc - pairing scheduler
+  - integrate w/ google calendar (auto-remove availability when something is scheduled)
   - notify on matches on discord
     - currently, we send an email with pairings; we would also like to send a Discord message
   - reminders on discord
     - send an email 10 min before each pairing event to the participants
-  - pop.com integration
-    - investigate if we can create pop.com "meetings" for each pairing session
 
 - mycc - events
   - centralized events infra
@@ -63,26 +64,29 @@ To take on a Mission, message \_rafd on Discord.
 
 These aren't well defined yet.
 
-- existing code base (ex. web app) with various features to add
-- existing code bases (ex. web app) with various bugs to fix
 - a simplified version of Flowstorm interface appropriate for total beginners to understand how Clojure parses code
+- integrating Flowstorm into VSCode/calva
+- a simplified version of VSCode that comes preconfigured for Clojure (calva, etc.) and nothing else
 
 ## Past Missions
 
 Thank you to Campers for completing these missions!
-
+- 2025-02 @oleh-sedletskyi (and @rafd)
+  - mob-controller - create tool to automate steps to start and shutdown the mob server
+- 2024-12 @oleh-sedletskyi (and @rafd)
+  - mycc - restructure to match based on per-topic skill level (rather than overall learner/mentor status)
 - 2024-11 @taulant
-  - website transition to clj
-  - handbook transition to github wiki
-- 2024-09 @oleh-sedletskyi
+  - website - transition to clj
+  - handbook - transition to github wiki
+- 2024-09 @oleh-sedletskyi (and @rafd)
   - mycc - merge in pairing algo repo into the main repo
   - mycc - use language preferences when matching
   - mycc - improve pairing algorithm stop condition
-- 2024-02 @the-dress-code
+- 2024-02 @the-dress-code (and @rafd)
   - mycc - allow users to indicate mentor vs peer pairing preference
-- 2024-02 @matheusfrancisco
+- 2024-02 @matheusfrancisco (and @rafd)
   - mycc - migration scripts
-- 2024-02 @J0sueTM
+- 2024-02 @J0sueTM (and @rafd)
   - mycc - timezone dropdown
 - 2023-12 @austin-meier
   - mycc - improve backend validation
@@ -90,9 +94,9 @@ Thank you to Campers for completing these missions!
   - mycc - add weekend option to pairing schedule
 - 2023-04 @nikijiandani
   - mycc - visual improvements (align schedule hour to top of row)
-- 2021-04 @asukakuwahara
+- 2021-04 @asukakuwahara (and @rafd)
   - mycc - add max-pair-per-day and -per-week options
-- 2020-2023 @Don-Stevenson @nikijiandani @dbeattie
+- 2020-2023 @Don-Stevenson @nikijiandani @dbeattie (and @rafd)
   - mycc - many sessions of pairing with @rafd to build the app
-- 2020-06 @icncsx
+- 2020-06 @icncsx (and @rafd)
   - mycc - initial draft of pairing algorithm
