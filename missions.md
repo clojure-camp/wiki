@@ -26,6 +26,10 @@ To take on a Mission, message \_rafd on Discord.
   - in match email, indicate when it's a user's first time
   - improve topics stats display (now that we have skill-levels per topic)
   - show overall availability in the p2p calendar availability-view
+ 
+- clojure camp TIL @Epidiah
+  
+  - app for posting today-i-learned posts
 
 
 ## Open
@@ -39,6 +43,8 @@ To take on a Mission, message \_rafd on Discord.
 
 - mycc - pairing scheduler
   - integrate w/ google calendar (auto-remove availability when something is scheduled)
+  - also schedule 3+ person mob events (on a single topic)
+    - would want some way to opt-in/out of mob events
   - notify on matches on discord
     - currently, we send an email with pairings; we would also like to send a Discord message
   - reminders on discord
