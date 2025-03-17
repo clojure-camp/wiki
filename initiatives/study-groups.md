@@ -1,4 +1,4 @@
-> Looking for more resources? See [Clojure Camp Handbook](README.md)
+> Looking for more resources? See [Clojure Camp Handbook](/README.md)
 
 # 📆 Weekly Study Groups
 
@@ -10,7 +10,7 @@ We start with a show-and-tell of what everyone learned last week, and see where 
 
 | Name                          | Mentors      | Students                           |
 | ----------------------------- | ------------ | ---------------------------------- |
-| [SecretAlpha](secretalpha.md) | @Raf @Jordan | @Austin @Tommy @Wendy @Niki @Recia |
+| no currently active groups    |              |                                    |
 
 ## Students…
 

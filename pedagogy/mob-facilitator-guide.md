@@ -116,3 +116,49 @@ Start at least 10 min before the event is scheduled to start.
 3. **Shut Down OS** (from the desktop)
 
 4. **Destroy Instance** (via the mob manager)
+
+---
+
+## Old Notes
+
+- to run your own
+  - pop-by an event to see how it’s run
+  - schedule a meet w/ Raf to get a run-through of the tooling
+- advice:
+  - before
+    - choose a problem from the [Exercise Library](/initiatives/exercise-library.md) or a Day 1-3 Advent-of-Code problem
+    - spin up the server 5 min before the session starts
+    - open up VS Code and the REPL
+  - during
+    - share server details, make sure everyone can see
+    - introduce the problem
+    - introduce how the REPL experience works
+      - `Ctrl - Enter`
+      - `Alt - Enter`
+      - `Ctrl - S` (save file, and re-evaluate)
+      - hyperfiddle.rpl tests
+      - using #\_
+      - parinfer
+      - remind of clojuredocs
+    - ask for high-level approaches to a problem
+      - or even, like, “how would you do this in the language your are most comfortable with?”
+      - take note of multiple approaches
+    - work through the various approaches
+      - have most of the typing be done by the participants
+      - change who writes frequently (after every milestone), typically 3 min, max 5 min
+      - advise on good REPL workflow
+        - lots of evaluating forms to see the output
+        - ex. writing small snippets, evaluating, then re-integrating into the bigger solution
+        - if asked, “what does fn X do with input Y?”
+          - “just try it in the REPL!”
+      - suggest refactors after a function is done
+      - suggest alternative functions
+        - but have students do the refactor
+        - open up clojuredocs for the new function
+      - (if have time)
+        - suggest modifications to the function
+    - after
+      - shutdown
+      - rename disk, and imagify
+      - (wait)
+      - destroy server

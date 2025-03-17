@@ -1,4 +1,4 @@
-> Looking for more resources? See [Clojure Camp Handbook](README.md)
+> Looking for more resources? See [Clojure Camp Handbook](/README.md)
 
 # Clojure Camp’s stance on AI Tools and Education
 

@@ -1,4 +1,4 @@
-> Looking for more resources? See [Clojure Camp Handbook](README.md)
+> Looking for more resources? See [Clojure Camp Handbook](/README.md)
 
 # 👥 P2P Pairing Sessions
 
@@ -30,12 +30,10 @@ Get scheduled each week to pair 1:1 with other students
   - there’s always exercises
 - take turns “driving”!
 - for a better pairing experience, potentially switch to:
+  - Tuple (Mac/Windows only, download via: https://tuple.clojure.camp)
   - Zoom
-  - [Unstuck Emergency Hotline](unstuck.md)
   - VSCode LiveShare
   - https://pop.com/
   - https://www.coscreen.co/
-  - Tuple ($)
-  - (we will probably standardize on one of these)
 - other advice re: pairing
   - https://tuple.app/pair-programming-guide

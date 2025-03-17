@@ -1,4 +1,4 @@
-> Looking for more resources? See [Clojure Camp Handbook](README.md)
+> Looking for more resources? See [Clojure Camp Handbook](/README.md)
 
 # Watch Me Code
 

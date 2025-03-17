@@ -1,10 +1,10 @@
-> Looking for more resources? See [Clojure Camp Handbook](README.md)
+> Looking for more resources? See [Clojure Camp Handbook](/README.md)
 
 # 🔗 Learning Resources
 
 Link dump of various Clojure-related resources for students.
 
-In future, we hope to integrate these with [Clojure Curriculum Map](map.md)
+In future, we hope to integrate these with [Clojure Curriculum Map](/initiatives/topic-map.md)
 
 ## Students
 

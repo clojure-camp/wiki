@@ -1,4 +1,4 @@
-> Looking for more resources? See [Clojure Camp Handbook](README.md)
+> Looking for more resources? See [Clojure Camp Handbook](/README.md)
 
 # Using ChatGPT and Copilot for Learning
 
@@ -12,7 +12,7 @@ It is an infinitely patient mentor, that can answer your exact question any time
 
 Sure. But less useful than ChatGPT when starting out. It still requires the judgment to be able to tell whether the code actually does what you want it to do.
 
-See also [Clojure Camp’s stance on AI Tools and Education](gptpolicy.md)
+See also [Clojure Camp’s stance on AI Tools and Education](/pedagogy/gptpolicy.md)
 
 ## Advice on using Chat GPT
 

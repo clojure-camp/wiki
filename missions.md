@@ -1,4 +1,4 @@
-> Looking for more resources? See [Clojure Camp Handbook](README.md)
+> Looking for more resources? See [Clojure Camp Handbook](/README.md)
 
 # Missions
 
@@ -6,7 +6,7 @@ Missions are open tasks for Campers to work on to improve our community.
 
 To take on a Mission, message \_rafd on Discord.
 
-## In Progress
+## Active Missions
 
 - function of the day (mycc) @austin-meier
 
@@ -16,10 +16,6 @@ To take on a Mission, message \_rafd on Discord.
 
   - create a script that generates "[faded](https://teachtogether.tech/en/index.html#faded-examples)" variations of our exercises
   - modify our exercise app to allow user to set a level of fading
-
-- internationalizing exercises (exercise library) @afucher
-
-  - add i18n support for our exercises (starting with adding Pt-Br)
 
 - misc mycc tweaks @oleh-sedletskyi
 
@@ -32,7 +28,7 @@ To take on a Mission, message \_rafd on Discord.
   - app for posting today-i-learned posts
 
 
-## Open
+## Open Missions
 
 - mob programming sessions
   - set up script
@@ -73,14 +69,19 @@ These aren't well defined yet.
 - a simplified version of Flowstorm interface appropriate for total beginners to understand how Clojure parses code
 - integrating Flowstorm into VSCode/calva
 - a simplified version of VSCode that comes preconfigured for Clojure (calva, etc.) and nothing else
+- a coding game where you have to re-implement clojure functions to "earn" the right to use them (and upgrade the IDE) 
 
 ## Past Missions
 
 Thank you to Campers for completing these missions!
+
 - 2025-02 @oleh-sedletskyi (and @rafd)
   - mob-controller - create tool to automate steps to start and shutdown the mob server
 - 2024-12 @oleh-sedletskyi (and @rafd)
   - mycc - restructure to match based on per-topic skill level (rather than overall learner/mentor status)
+- 2024-11 @afucher
+  - exercises - add support for i18n
+  - exercises - add pt-BR translations
 - 2024-11 @taulant
   - website - transition to clj
   - handbook - transition to github wiki
