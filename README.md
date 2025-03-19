@@ -1,4 +1,4 @@
-![clojure-camp](assets/clojure-camp.png)
+![clojure-camp](/assets/clojure-camp.png)
 
 # 📘 Clojure Camp Handbook
 
@@ -7,7 +7,7 @@ Welcome to Clojure Camp! This wiki describes how to get started, and all the var
 ## How to get started
 
 - Register on [my.clojure.camp](https://my.clojure.camp)
-  - and opt-in for [P2P Pairing Sessions](./initiatives/p2p.md)
+  - and opt-in for [P2P Pairing Sessions](/initiatives/p2p-pairing.md)
 - Join the [Discord](https://discord.clojure.camp)
   - Say hello in #introductions
 
@@ -28,15 +28,15 @@ At Clojure Camp, mentors provide a variety of offerings. Explore the list below 
 
 This wiki also features advice on learning programming and learning Clojure:
 
-- [Clojure as First Programming Language](./advice/beginner_programmers.md)
-- [Learning “Programmatic Problem Solving”](./advice/solving.md)
-- [Learning Clojure](./advice/clojure.md)
-- [Learning Git](./advice/git.md)
-- [Learning “Programmatic Problem Solving”](./advice/problem-solving.md)
-- [Using ChatGPT and Copilot for Learning](./advice/gpt.md)
-- [A List of Learning Resources](./advice/recommended-resources.md)
+- [Clojure as First Programming Language](/advice/beginner-programmers.md)
+- [Learning “Programmatic Problem Solving”](/advice/problem-solving.md)
+- [Learning Clojure](/advice/clojure.md)
+- [Learning Git](/advice/git.md)
+- [Learning “Programmatic Problem Solving”](/advice/problem-solving.md)
+- [Using LLMs for Learning](/advice/using-llms-for-learning.md)
+- [A List of Learning Resources](/advice/recommended-resources.md)
 
 ## Other Related Pages:
 
-- [🖖 Code of Conduct](conduct.md)
-- [Missions](missions.md)
+- [🖖 Code of Conduct](/code-of-conduct.md)
+- [Missions](/missions.md)
