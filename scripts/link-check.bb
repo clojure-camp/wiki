@@ -44,26 +44,29 @@
 #_(valid-link? "." {:link/target "http://www.example.com"})
 #_(valid-link? "." {:link/target "#foo"})
 
+(defn broken-links
+  [root-dir file]
+  (->> file
+       extract-links
+       (remove (partial valid-link? root-dir))))
+
+#_(broken-links (fs/canonicalize ".")
+                "README.md")
+
 (defn report
   [dir]
   (let [root-dir (fs/canonicalize dir)
         _ (println "Checking" (str root-dir) "for broken links.")
-        files (fs/glob dir "**/*.md")
-        _ (println "Found" (count files) "markdown files...")
-        all-links (mapcat extract-links files)
-        _ (println "Found" (count all-links) "links...")
-        invalid-links (->> all-links
-                           (remove (partial valid-link? root-dir)))]
-    (if (empty? invalid-links)
-      (println "All links are valid!")
-      (do
-        (println "Found" (count invalid-links) "invalid links:\n")
-        (doseq [[source links] (group-by :link/source invalid-links)]
-          (println (str source))
-          (doseq [{:link/keys [line target]} links]
-            (println (format "  %03d  %s" line target))))))))
+        files (fs/glob dir "**.md")
+        _ (println "Found" (count files) "markdown files...")]
+    (doseq [file files]
+      (let [links (broken-links root-dir file)]
+        (when (seq links)
+          (println (str file)))
+        (doseq [{:link/keys [line target]} links]
+          (println (format "  %03d  %s" line target)))))))
 
-#_(report "./")
+#_(report ".")
 
 (defn -main
   [& args]
