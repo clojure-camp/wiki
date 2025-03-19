@@ -12,7 +12,7 @@
   - we are used to doing things a certain way
     - (but different ways may end up being better by many measures);
   - we find certain things easy
-    - (but the skill to make things “easy” was hard-earned, and, even making easy easier )
+    - (but the skill to make things “easy” was hard-earned)
 
 - Analogy to the calculator and learning math
   - Can calculators help with learning math? Yes
@@ -21,13 +21,15 @@
   - Did calculators change how math is taught? Yes (but, still in progress)
 - AI programming tools are a highly scalable educational resource (cheap, fast, available, custom) that provides “answers” that move a student forward (even if sometimes not 100% correct)
 
+- If the goal is learning, LLMs can help, but it involves "learning how to use an LLM for learning" (we have some [advice](/advice/using-llms-for-learning.md) here)
+
 ## Isn’t it cheating?
 
 - The point of programming is not “to able to answer code questions unaided”; it’s to solve problems with code.
 
 ## Won’t getting immediate code generation just hurt a student’s learning / understanding?
 
-- ChatGPT does let a learner go from “word problem” to “code that works but they don’t understand”, but, learning is not a linear process
+- LLMs let a learner go from “word problem” to “code that works but they don’t understand”, but, learning is not a linear process
 - It’s better than the student being stuck
 - Much of a student’s early code is just as inscrutable, even if they wrote it themselves
 
@@ -35,4 +37,4 @@
 
 - Even without AI tools, students create their own wrong answers as part of the learning process.
 - Learning involves a student building up an increasingly complex mental model. Often, this model is wrong, and much of learning is making corrections to the model.
-- Bonus: wrong answers instill a habit of not trusting any code, and instead “proving” correctness (by testing, reasoning, etc.)
+- Bonus: wrong LLM answers instill a habit of not trusting any code, and instead “proving” correctness (by testing, reasoning, etc.)
