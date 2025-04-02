@@ -38,12 +38,13 @@ To take on a Mission, message \_rafd on Discord.
   - no password
 
 - mycc - pairing scheduler
+  - don't schedule pairing during clojure camp events
   - integrate w/ google calendar (auto-remove availability when something is scheduled)
   - also schedule 3+ person mob events (on a single topic)
     - would want some way to opt-in/out of mob events
-  - notify on matches on discord
+  - notify of matches on discord
     - currently, we send an email with pairings; we would also like to send a Discord message
-  - reminders on discord
+  - event reminders on discord and email
     - send an email 10 min before each pairing event to the participants
 
 - mycc - events
