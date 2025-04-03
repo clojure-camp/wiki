@@ -29,7 +29,6 @@ At Clojure Camp, mentors provide a variety of offerings. Explore the list below 
 This wiki also features advice on learning programming and learning Clojure:
 
 - [Clojure as First Programming Language](/advice/beginner-programmers.md)
-- [Learning “Programmatic Problem Solving”](/advice/problem-solving.md)
 - [Learning Clojure](/advice/clojure.md)
 - [Learning Git](/advice/git.md)
 - [Learning “Programmatic Problem Solving”](/advice/problem-solving.md)
