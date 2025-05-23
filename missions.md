@@ -17,15 +17,18 @@ To take on a Mission, message \_rafd on Discord.
   - create a script that generates "[faded](https://teachtogether.tech/en/index.html#faded-examples)" variations of our exercises
   - modify our exercise app to allow user to set a level of fading
 
-- misc mycc tweaks @oleh-sedletskyi
+- resource input ux @oleh-sedletskyi
 
-  - in match email, indicate when it's a user's first time
-  - improve topics stats display (now that we have skill-levels per topic)
-  - show overall availability in the p2p calendar availability-view
- 
+  - UI to add resources and link them to learning objectives
+
 - clojure camp TIL @Epidiah
-  
+
   - app for posting today-i-learned posts
+
+- centralized events infra @Epidiah
+  - a centralized place for all Clojure Camp events
+  - ability for Campers to submit and modify events
+  - internally, display Meetup.com events and Discord events (to see what is missing)
 
 
 ## Open Missions
@@ -38,7 +41,6 @@ To take on a Mission, message \_rafd on Discord.
   - no password
 
 - mycc - pairing scheduler
-  - don't schedule pairing during clojure camp events
   - integrate w/ google calendar (auto-remove availability when something is scheduled)
   - also schedule 3+ person mob events (on a single topic)
     - would want some way to opt-in/out of mob events
@@ -48,18 +50,12 @@ To take on a Mission, message \_rafd on Discord.
     - send an email 10 min before each pairing event to the participants
 
 - mycc - events
-  - centralized events infra
-    - a centralized place for all Clojure Camp events
-    - ability for Campers to submit and modify events
-    - internally, display Meetup.com events and Discord events (to see what is missing)
   - participation tracking
     - way for admins to mark who attended what event (or attendees to self mark)
   - weekly post of events on discord
     - script to: once a week, post a message on Discord with list of events
 
 - topic map
-  - resource input ux
-    - UI to add resources and link them to learning objectives
   - badges
     - way for Campers to earn badges for different topic mastery (more though needs to be put into it)
 
@@ -70,12 +66,17 @@ These aren't well defined yet.
 - a simplified version of Flowstorm interface appropriate for total beginners to understand how Clojure parses code
 - integrating Flowstorm into VSCode/calva
 - a simplified version of VSCode that comes preconfigured for Clojure (calva, etc.) and nothing else
-- a coding game where you have to re-implement clojure functions to "earn" the right to use them (and upgrade the IDE) 
+- a coding game where you have to re-implement clojure functions to "earn" the right to use them (and upgrade the IDE)
 
 ## Past Missions
 
 Thank you to Campers for completing these missions!
 
+- 2025-05 @oleh-sedletskyi (and @rafd)
+  - don't schedule pairing during clojure camp events
+  - in match email, indicate when it's a user's first time
+  - show overall availability in the p2p calendar availability-view
+  - improve topics stats display (now that we have skill-levels per topic)
 - 2025-02 @oleh-sedletskyi (and @rafd)
   - mob-controller - create tool to automate steps to start and shutdown the mob server
 - 2024-12 @oleh-sedletskyi (and @rafd)
