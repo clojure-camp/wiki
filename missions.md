@@ -63,6 +63,7 @@ To take on a Mission, message \_rafd on Discord.
 
 These aren't well defined yet.
 
+- a website to paste some code into, and get LLM-based: how to solve hints, how to fix, how to make more idiomatic, etc. suggestions
 - a simplified version of Flowstorm interface appropriate for total beginners to understand how Clojure parses code
 - integrating Flowstorm into VSCode/calva
 - a simplified version of VSCode that comes preconfigured for Clojure (calva, etc.) and nothing else
