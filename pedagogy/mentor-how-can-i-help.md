@@ -17,3 +17,9 @@
       - [learning resource list](/advice/recommended-resources.md)
       - various advice for learners (`/advice` folder)
     - (see [Missions](/missions.md) for ideas)
+
+
+- invite others you know!
+
+- schedule an onboarding call w/ Raf or Jordan to chat about what activites would be the best fit
+- skim through the various pedagogy resources

@@ -37,3 +37,9 @@ Get scheduled each week to pair 1:1 with other students
   - https://www.coscreen.co/
 - other advice re: pairing
   - https://tuple.app/pair-programming-guide
+
+## Pedagogical Intent
+
+- students actually do applied work together
+- having it scheduled makes sure student spends some time on learning
+- even if there’s an experience imbalance, it is still useful for the more experienced student to have to explain things and clarify their mental model

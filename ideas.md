@@ -30,7 +30,7 @@
 - add to our pedagogy advice:
     - "active learning"
         - (+ create scaffolding and resource to promote)
-        
+
 - learner guide
     - spaced learning, sleep
     - contributing back
@@ -52,3 +52,8 @@
 - post-event feedback forms
 
 - regular NPS survey (if CC was cancelled...)
+
+- beginner-friendly clojure compiler
+  - friendly error messages
+  - modify sci to add run-time checks to avoid mysterious errors
+    - even at cost of performance
