@@ -39,3 +39,4 @@ Work on an open-source Clojure project, with a mentor providing on-going guidanc
 | moclojer                      | tweaks to existing library |            |
 | Clojure Warrior               | tweaks to existing web app | rafd       |
 | Clojure Turtle                | tweaks to existing web app | rafd       |
+| simple hypertrophy training tracker | fleshing out progression algorithms | snuffles |
